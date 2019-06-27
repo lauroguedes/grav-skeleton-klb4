@@ -1,0 +1,13 @@
+name: Knowledgebase Company
+version: 1.0.0
+description: "The **Knowledgebase Company Skeleton** provides a great example of how to build a modern knowledgebase for storage company informations, process and policies. This skeleton uses the Klb4 theme."
+icon: book
+author:
+  name: Lauro W. Guedes
+  email: leowgweb@gmail.com
+  url: https://leowgweb.com.br
+homepage: https://github.com/lauroguedes/grav-skeleton-klb4
+demo: https://demo.leowgweb.com.br/grav/skeleton-klb4
+keywords: company, klb4, skeleton, scroll, single, page, modular, knowledgebase
+bugs: https://github.com/lauroguedes/grav-skeleton-klb4/issues
+license: MIT
