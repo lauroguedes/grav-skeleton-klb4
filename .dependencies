@@ -7,6 +7,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
         branch: master
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: master
     klb4:
         url: https://github.com/lauroguedes/grav-theme-klb4
         path: user/themes/klb4
@@ -19,6 +23,10 @@ links:
     problems:
         src: grav-plugin-problems
         path: user/plugins/problems
+        scm: github
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
         scm: github
     klb4:
         src: grav-theme-klb4
