@@ -1,7 +1,8 @@
 ---
 title: 'Homepage Hero'
 menu: Top
-hero_classes: parallax text-light
+hero_classes: 'parallax text-light'
+hero_overlay: true
 hero_image: header.jpg
 ---
 
