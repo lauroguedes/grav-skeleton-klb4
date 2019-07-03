@@ -10,6 +10,8 @@ themes/*
 !themes/.*
 accounts/*
 !accounts/.*
+config/plugins/*
+config/themes/*
 
 # OS Generated
 .DS_Store*
