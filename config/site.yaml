@@ -3,7 +3,6 @@ author:
   name: 'Léo WG'
   email: leowgweb@gmail.com
 taxonomies:
-  - category
   - tag
   - author
 metadata:

@@ -2,11 +2,11 @@
 title: Manuais
 media_order: bg_hero_klb4.jpg
 body_classes: 'title-h1h2 header-dark header-transparent'
-hero_classes: 'parallax text-light'
+hero_overlay: true
+hero_showsearch: true
 show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
-hero_overlay: true
 content:
     items:
         - '@self.children'
