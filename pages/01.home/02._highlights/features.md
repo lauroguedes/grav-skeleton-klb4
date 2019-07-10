@@ -1,31 +1,43 @@
 ---
-title: Homepage Highlights
+title: 'Homepage Highlights'
+anchors:
+    active: true
+tagtitle: h2
 menu: Highlights
-class: offset-box
+class: standard
 features:
-	- header: Crazy Fast
-	  text: "Performance is not just an afterthought, we baked it in from the start!"
-	  icon: fa fa-fighter-jet
-    - header: Easy to build
-      text: "Simple text files means Grav is trivial to install, and easy to maintain"
-      icon: fa fa-database
-    - header: Awesome Technology
-      text: "Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml"
-      icon: fa fa-cubes
-    - header: Super Flexible
-      text: "From the ground up, with many plugin hooks, Grav is extremely extensible"
-      icon: fa fa-object-ungroup
-    - header: Abundant Plugins
-      text: "A vibrant developer community means 200+ plugins available to download"
-      icon: fa fa-puzzle-piece
-    - header: Free / Open Source
-      text: "Grav is an open source project, so you can spend your money on other stuff"
-      icon: fa fa-money
-           
-    
+    -
+        icon: 'fa fa-desktop'
+        header: Systems
+        text: 'Find project and system information'
+        url: 'https://github.com/lauroguedes/grav-theme-klb4'
+        target: true
+    -
+        icon: 'fa fa-question-circle'
+        header: FAQs
+        text: 'Find information about frequently asked questions'
+        target: false
+    -
+        icon: 'fa fa-clipboard'
+        header: Manuals
+        text: 'Learn all about our products and services through the manuals'
+        target: false
+    -
+        icon: 'fa fa-bullhorn'
+        header: Marketing
+        text: 'Access marketing kits and use to advertise your business'
+        target: false
+    -
+        icon: 'fa fa-gavel'
+        header: Policies
+        text: 'Learn all about our internal and external policies'
+        target: false
+    -
+        icon: 'fa fa-book'
+        header: 'Knowledgebase Tutorials'
+        text: 'Learn how to use and create content in Klb4'
+        target: false
 ---
 
-# Why Grav?
-## **build sites better**
-
-We believe the best recipe to make something great, is to bake with [quality ingredients](#) and add dollops of [cool stuff](#). 
+# Main Sections
+## **Find content in a more direct way**

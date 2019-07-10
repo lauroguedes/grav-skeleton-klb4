@@ -1,11 +1,15 @@
 ---
-title: Homepage Text Callout
-menu: Easy Content
-image_align: right
+title: 'Homepage Text Callout'
+media_order: adult-app-developer-coding-1181244.jpg
+image_align: left
+anchors:
+    active: true
+tagtitle: h2
+menu: 'Easy Content'
 ---
 
-## **Your Content** Unchained!
+## **Your Content** Marketing!
 
-No longer are you a _help captive by your CMS_. Grav **empowers** you to create anything from a [simple one-page site](https://demo.getgrav.org/onepage-skeleton?target=_blank), to a [beautiful blog](https://demo.getgrav.org/blog-skeleton?target=_blank), to a powerful and feature-rich [shop site](https://demo.getgrav.org/shop-skeleton?target=_blank), to pretty much anything you can dream up!
+Put here information about the disclosure of any product or service of the company. Or just some call to some featured content. Contribute with the theme in [Klb4 Theme](https://github.com/lauroguedes/grav-theme-klb4) and also contribute with the skeleton in [Klb4 Skeleton](https://github.com/lauroguedes/grav-skeleton-klb4)
 
-[Find out more...](https://getgrav.org?classes=btn,btn-primary,btn-lg)
+[+ Details...](https://github.com/lauroguedes/grav-theme-klb4?classes=btn,btn-primary,btn-lg)

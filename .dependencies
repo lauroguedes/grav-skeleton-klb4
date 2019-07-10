@@ -31,6 +31,10 @@ git:
         url: https://github.com/iusvar/grav-plugin-thumb-ratings
         path: user/plugins/thumb-ratings
         branch: master
+    backtotop:
+        url: https://github.com/marcosegato/grav-plugin-backtotop
+        path: user/plugins/backtotop
+        branch: master
     klb4:
         url: https://github.com/lauroguedes/grav-theme-klb4
         path: user/themes/klb4
@@ -67,6 +71,10 @@ links:
     thumb-ratings:
         src: grav-plugin-thumb-ratings
         path: user/plugins/thumb-ratings
+        scm: github
+    backtotop:
+        src: grav-plugin-backtotop
+        path: user/plugins/backtotop
         scm: github
     klb4:
         src: grav-theme-klb4
