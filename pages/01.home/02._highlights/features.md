@@ -21,6 +21,7 @@ features:
         icon: 'fa fa-clipboard'
         header: Manuals
         text: 'Learn all about our products and services through the manuals'
+        url: /manuals
         target: false
     -
         icon: 'fa fa-bullhorn'

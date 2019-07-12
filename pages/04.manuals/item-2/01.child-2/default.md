@@ -1,5 +1,5 @@
 ---
-title: 'Children Item 2'
+title: 'Child 2'
 taxonomy:
     tag:
         - tag3

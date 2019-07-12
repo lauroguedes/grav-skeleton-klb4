@@ -1,16 +1,20 @@
 ---
-title: Manuais
+title: Manuals
 media_order: bg_hero_klb4.jpg
 body_classes: 'title-h1h2 header-dark header-transparent'
+anchors:
+    active: true
+tagtitle: h2
 hero_overlay: true
 hero_showsearch: true
 show_sidebar: false
+show_searchsidebar: false
 show_breadcrumbs: true
 show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 5
+    limit: 12
     order:
         by: date
         dir: desc
@@ -18,5 +22,5 @@ content:
     url_taxonomy_filters: true
 ---
 
-# Manuais
-## Aprenda de forma simples e direta usar os nossos Sistemas
+# Manuals
+## Learn in a simple and direct way to use our systems

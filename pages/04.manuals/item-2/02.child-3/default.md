@@ -1,5 +1,8 @@
 ---
-title: 'Children Item 3'
+title: 'Child 3'
+anchors:
+    active: true
+tagtitle: h2
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis accumsan tellus, aliquet porttitor risus. Morbi accumsan sed mi sed interdum. Vivamus interdum aliquet velit id tempus. Nullam pharetra purus velit, id egestas dui malesuada eu. Phasellus eget nunc at est fringilla auctor nec in tortor. Nullam vulputate vulputate leo, at pulvinar neque vulputate nec. Curabitur cursus aliquet rutrum. Donec semper varius blandit. Fusce et est elit. Nam tortor justo, posuere ut porta quis, fringilla auctor lectus. Cras vel lacus semper, feugiat justo a, suscipit est. Nullam et mi nibh. Nunc nec diam felis. Ut et vulputate velit, posuere posuere dui. Fusce varius tortor non sem pharetra porttitor. Integer non magna vel sapien faucibus malesuada a nec odio.
