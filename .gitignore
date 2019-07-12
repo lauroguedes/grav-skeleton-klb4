@@ -4,13 +4,13 @@
 # Grav Specific
 data/*
 !data/.*
-plugins/*
+plugins/
 !plugins/.*
 themes/*
 !themes/.*
 accounts/*
 !accounts/.*
-config/plugins/*
+!config/plugins/login.yaml
 config/themes/*
 
 # OS Generated
